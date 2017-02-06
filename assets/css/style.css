@@ -3,6 +3,7 @@
 body {
   font-size: 15px;
   color: #777777;
+  background-color: white;
 }
 
 header {
@@ -79,6 +80,7 @@ header {
 	background-color: white;
 	height: 100%;
 	width: 480px;
+	margin-top: 10px;
 	margin-left: 30px;
 	padding-right: 2px;
 	padding-left: 10px;
@@ -94,10 +96,28 @@ header {
 }
 
 #connect-area {
-	height: 200px;
-	width: 200px;
-	margin-right: 100px;
-	float: right;
+	height: 150px;
+	width: 260px;
+	background-color: white;
+	margin-top: 10px;
+	margin-left: 30px;
+	float: left;
+}
+
+#githublink {
+	height: 50px;
+	width: 50px;
+	margin-left: 40px;
+}
+
+#linkedinlink {
+	height: 50px;
+	width: 50px;
+}
+
+#stackoverflowlink {
+	height: 50px;
+	width: 50px;
 }
 
 h1 {    
@@ -108,6 +128,15 @@ h1 {
     color: #4aaaa5;
 }
 
+h2 {    
+   	border-bottom: 3px solid #CCC;
+    float: left;
+    width: 180px;
+    margin-left: 40px;
+    margin-right: 20px;
+    padding-bottom: 1px;
+    color: #4aaaa5;
+}
 
 .footer {
   	padding-top: 1rem;
