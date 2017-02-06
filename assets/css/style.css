@@ -19,7 +19,7 @@ header {
 	color: white;
 	text-align: center;
 	margin-top: 7px;
-	margin-left: 30px;
+	margin-left: 40px;
 	padding-top: 9px;
 	height: 34px;
 	width: 150px;
@@ -30,8 +30,9 @@ header {
 	padding-right: 10px; 
 	margin-top: 30px;
 	margin-right: 100px;
+	margin-left: 300px;
 	width: 300px; 
-	float: right;
+	float: left;
 }
 
 .menu-header ul { 
@@ -81,7 +82,7 @@ header {
 	height: 100%;
 	width: 480px;
 	margin-top: 10px;
-	margin-left: 30px;
+	margin-left: 40px;
 	padding-right: 2px;
 	padding-left: 10px;
 	font-size: 16px;
