@@ -1,0 +1,128 @@
+
+
+body {
+  font-size: 15px;
+  color: #777777;
+}
+
+header {
+	height: 50px;
+	width: 960px;
+	margin-top: 10px;
+}
+
+.name {
+	font-family: Times;
+	font-size: 20px;
+	background: #4aaaa5;
+	color: white;
+	text-align: center;
+	margin-top: 7px;
+	margin-left: 30px;
+	padding-top: 9px;
+	height: 34px;
+	width: 150px;
+	float:left;
+}
+
+.menu-header { 
+	padding-right: 10px; 
+	margin-top: 30px;
+	margin-right: 100px;
+	width: 300px; 
+	float: right;
+}
+
+.menu-header ul { 
+	padding: 0; 
+	margin:0; 
+	list-style: none; 
+	border: 0;
+	float:right;
+}
+
+#about {
+	float: right;  
+	margin: 0; 
+	padding-right: 10px;
+	padding-left: 10px;  
+	text-decoration: none; 
+	border-right: 1px solid #777777;
+}
+
+#portfolio {
+	float: right;  
+	margin: 0; 
+	padding-right: 10px;
+	padding-left: 10px;  
+	text-decoration: none; 
+	border-right: 1px solid #777777;
+}
+
+#contact {
+	float: right;  
+	margin: 0; 
+	padding-right: 10px;
+	padding-left: 10px;  
+	text-decoration: none; 
+	border-right: none;
+}
+
+.bio-area {
+	border-top: 1px solid #777777;
+	background-image: url("../images/paper.png");
+	height: 100%;
+	width: 960px;
+}
+
+#about-me {
+	background-color: white;
+	height: 100%;
+	width: 480px;
+	margin-left: 30px;
+	padding-right: 2px;
+	padding-left: 10px;
+	font-size: 16px;
+	float: left;
+}
+
+#Johnny {
+	height: 200px;
+	width: 200px;
+	margin-right: 10px;
+	float: left;
+}
+
+#connect-area {
+	height: 200px;
+	width: 200px;
+	margin-right: 100px;
+	float: right;
+}
+
+h1 {    
+   	border-bottom: 3px solid #CCC;
+    float: left;
+    width: 100%;
+    padding-bottom: 1px;
+    color: #4aaaa5;
+}
+
+
+.footer {
+  	padding-top: 1rem;
+  	padding-bottom: 1rem;
+	height: 0.5rem;
+	width: 960px;
+	font-size: 10px;
+  	background: #666666;
+  	text-align: center;
+  	border-top: 10px solid #4aaaa5;
+  	clear: both;
+}
+
+
+
+
+
+
