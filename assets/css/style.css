@@ -18,12 +18,14 @@ header {
 	background: #4aaaa5;
 	color: white;
 	text-align: center;
-	margin-top: 7px;
+	margin-top: 17px;
 	margin-left: 40px;
-	padding-top: 9px;
-	height: 34px;
-	width: 150px;
+	padding: 5px;
+	/*height: 34px;*/
+	/*width: 150px;*/
 	float:left;
+	display: inline;
+	/*position: absolute;*/
 }
 
 .menu-header { 
@@ -74,14 +76,16 @@ header {
 	border-top: 1px solid #777777;
 	background-image: url("../images/paper.png");
 	height: 100%;
-	width: 960px;
+	/*width: 960px;*/
+	width: 100%;
+	overflow: auto;
 }
 
 #about-me {
 	background-color: white;
 	height: 100%;
 	width: 480px;
-	margin-top: 10px;
+	margin-top: 20px;
 	margin-left: 40px;
 	padding-right: 2px;
 	padding-left: 10px;
@@ -100,7 +104,7 @@ header {
 	height: 150px;
 	width: 260px;
 	background-color: white;
-	margin-top: 10px;
+	margin-top: 20px;
 	margin-left: 30px;
 	float: left;
 }
@@ -142,13 +146,15 @@ h2 {
 .footer {
   	padding-top: 1rem;
   	padding-bottom: 1rem;
-	height: 0.5rem;
-	width: 960px;
+	/*height: 0.5rem;*/
+	height: 20px;
+	/*width: 960px;*/
+	width: 100%;
 	font-size: 10px;
   	background: #666666;
   	text-align: center;
-  	border-top: 10px solid #4aaaa5;
-  	clear: both;
+  	border-top: 5px solid #4aaaa5;
+  	position: absolute;
 }
 
 
