@@ -85,6 +85,12 @@ header {
 	float: left;
 }
 
+a {
+	border: 0 none;
+	text-decoration: none;
+}
+
+
 #githublink {
 	height: 40px;
 	width: 40px;
